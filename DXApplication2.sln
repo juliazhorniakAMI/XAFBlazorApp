@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DXApplication2.Module", "DXApplication2.Module\DXApplication2.Module.csproj", "{898317B6-6886-451B-B82C-44C8758E3491}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DXApplication2.Blazor.Server", "DXApplication2.Blazor.Server\DXApplication2.Blazor.Server.csproj", "{347580CC-8F45-4487-8561-B9F2DC0C9575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898317B6-6886-451B-B82C-44C8758E3491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898317B6-6886-451B-B82C-44C8758E3491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898317B6-6886-451B-B82C-44C8758E3491}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{898317B6-6886-451B-B82C-44C8758E3491}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{898317B6-6886-451B-B82C-44C8758E3491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898317B6-6886-451B-B82C-44C8758E3491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347580CC-8F45-4487-8561-B9F2DC0C9575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347580CC-8F45-4487-8561-B9F2DC0C9575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347580CC-8F45-4487-8561-B9F2DC0C9575}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{347580CC-8F45-4487-8561-B9F2DC0C9575}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{347580CC-8F45-4487-8561-B9F2DC0C9575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347580CC-8F45-4487-8561-B9F2DC0C9575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E024ABEB-44BD-4BB0-9B9A-EFD9DCE46D63}
+	EndGlobalSection
+EndGlobal
