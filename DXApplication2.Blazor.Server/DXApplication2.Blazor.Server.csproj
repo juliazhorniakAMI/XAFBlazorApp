@@ -25,4 +25,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DXApplication2.Module\DXApplication2.Module.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Editors\" />
+  </ItemGroup>
 </Project>
