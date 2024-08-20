@@ -1,5 +1,4 @@
 # XAF Blazor Application with XPO ORM
-## See Demo Here https://www.loom.com/share/a4b57e6aab3348078bfc7ad0392bf96c?sid=69762e01-2d87-4d2e-a412-5bbe8ca51e34
 ## Project Overview
 
 This project is an XAF Blazor application that uses XPO (eXpress Persistent Objects) as the ORM (Object-Relational Mapping). The application is designed to manage a fleet of vehicles and their associated drivers. It includes functionality for maintaining directories of drivers and vehicles, linking drivers to vehicles with specific rights, and enforcing business rules related to vehicle usage.
